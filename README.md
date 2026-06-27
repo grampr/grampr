@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash
+gram@github:~$ cat profile.txt
 
-<!--
-**grampr/grampr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──────────────────────────────────────┐
+│  gram                                │
+│  ─────────────────────────────────   │
+│  from      Fukuoka / Nagasaki        │
+│  lang      Japanese                  │
+│  role      Information Science       │
+│                                      │
+│  stack     Java / Python / JS / TS   │
+│            SQL / React / Ubuntu      │
+│            Pterodactyl               │
+│                                      │
+│  focus     Backend / Game Servers    │
+│            Web Apps / Automation     │
+└──────────────────────────────────────┘
+# About me
 
-Here are some ideas to get you started:
+情報科学を学んでいる大学生です。
+Java・Python・JavaScript / TypeScript を中心に、Webアプリ開発、Minecraftサーバー開発、サーバー運用、自動化ツール制作に興味があります。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+まだ学習中ですが、気になったものを作りながら技術を深めています。
