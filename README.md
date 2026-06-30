@@ -26,6 +26,4 @@ Java・Python・JavaScript / TypeScript を中心に、Webアプリ開発、Mine
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grampr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grampr&layout=compact&theme=tokyonight)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={grampr})](https://github.com/anuraghazra/github-readme-stats)
