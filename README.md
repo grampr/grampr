@@ -22,6 +22,6 @@ Java・Python・JavaScript / TypeScript を中心に、Webアプリ開発、Mine
 ```
 まだ学習中ですが、気になったものを作りながら技術を深めています。
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grampr&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gram&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grampr&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gram&layout=compact&theme=tokyonight)
